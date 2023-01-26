@@ -7,12 +7,12 @@ const Header = () => {
   return (
     <div className="gpt3__header section_padding" id='home'>
       <div className="gpt3__header-content">
-        <h1 className="gradient__text">Let&apos;s Build Something amazing with GPT-3 OpenAI</h1>
-        <p>The first version of GPT was released in 2018 and contained 117 million parameters. The second version of the model, GPT-2, was released in 2019 with around 1.5 billion parameters. As the latest version, GPT-3 jumps over the last model by a huge margin with over 175 billion parameters, which is more than 100 times its predecessor and ten times more than comparable programs.</p>
+        <h1 className="gradient__text">Vamos construir algo incrível com GPT-3 OpenAI</h1>
+        <p>A primeira versão do GPT foi lançada em 2018 e continha 117 milhões de parâmetros. A segunda versão do modelo, GPT-2, foi lançada em 2019 com cerca de 1,5 bilhão de parâmetros. Como a versão mais recente, o GPT-3 salta sobre o último modelo por uma margem enorme com mais de 175 bilhões de parâmetros, o que é mais de 100 vezes seu antecessor e dez vezes mais do que programas comparáveis.</p>
 
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your Email Address" />
-          <button type="button">Get Started</button>
+          <button type="button">Vamos Começar</button>
         </div>
 
         <div className="gpt3__header-content__people">
